@@ -8,3 +8,13 @@ C:\Users\bbursey\ConcertFinder\Countdown\Countdown\bin\Debug\nunit.framework.xml
 C:\Users\bbursey\ConcertFinder\Countdown\Countdown\obj\Debug\Countdown.csproj.CopyComplete
 C:\Users\bbursey\ConcertFinder\Countdown\Countdown\obj\Debug\Countdown.exe
 C:\Users\bbursey\ConcertFinder\Countdown\Countdown\obj\Debug\Countdown.pdb
+C:\Users\bbursey\Countdown\Countdown\bin\Debug\Countdown.exe
+C:\Users\bbursey\Countdown\Countdown\bin\Debug\Countdown.pdb
+C:\Users\bbursey\Countdown\Countdown\bin\Debug\nunit.framework.dll
+C:\Users\bbursey\Countdown\Countdown\bin\Debug\nunit.framework.pdb
+C:\Users\bbursey\Countdown\Countdown\bin\Debug\nunit.framework.xml
+C:\Users\bbursey\Countdown\Countdown\obj\Debug\Countdown.csprojAssemblyReference.cache
+C:\Users\bbursey\Countdown\Countdown\obj\Debug\Countdown.csproj.CoreCompileInputs.cache
+C:\Users\bbursey\Countdown\Countdown\obj\Debug\Countdown.csproj.CopyComplete
+C:\Users\bbursey\Countdown\Countdown\obj\Debug\Countdown.exe
+C:\Users\bbursey\Countdown\Countdown\obj\Debug\Countdown.pdb
