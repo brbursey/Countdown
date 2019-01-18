@@ -13,9 +13,15 @@ namespace Countdown
             CurrentTime = currentTime;
         }
 
-        public TimeSpan TimeLeft()
+        public TimeSpan GetTimeInDays()
         {
             return Deadline - CurrentTime;
+        }
+
+        public AnnualTime GetCountdownTimer()
+        {
+            var timeBetween = Deadline - CurrentTime;
+            return timeBetween.TimeLeft(CurrentTime);
         }
     }
 }
